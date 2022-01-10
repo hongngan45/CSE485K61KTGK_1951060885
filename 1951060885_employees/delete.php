@@ -4,7 +4,7 @@
 
 
     // Bước 01: Kết nối Database Server
-    $conn = mysqli_connect('localhost','root','','1951060841_employee');
+    $conn = mysqli_connect('localhost','root','','1951060885_employee');
      if(!$conn){
        die("Kết nối thất bại. Vui lòng kiểm tra lại các thông tin máy chủ");
 }
